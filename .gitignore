@@ -2,3 +2,8 @@
 sounds
 sounds/
 sounds/*
+
+# Ignore temporary Jupyter files
+.ipynb_checkpoints
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
