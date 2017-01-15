@@ -1,0 +1,4 @@
+# Ignore sound files
+sounds
+sounds/
+sounds/*
